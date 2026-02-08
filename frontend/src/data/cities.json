@@ -1,0 +1,10 @@
+[
+  { "name": "Vilnius, LT", "lat": 54.6872, "lon": 25.2797 },
+  { "name": "Kaunas, LT", "lat": 54.8985, "lon": 23.9036 },
+  { "name": "Klaipėda, LT", "lat": 55.7033, "lon": 21.1443 },
+  { "name": "Riga, LV", "lat": 56.9496, "lon": 24.1052 },
+  { "name": "Tallinn, EE", "lat": 59.4370, "lon": 24.7536 },
+  { "name": "Warsaw, PL", "lat": 52.2297, "lon": 21.0122 },
+  { "name": "Berlin, DE", "lat": 52.5200, "lon": 13.4050 },
+  { "name": "Stockholm, SE", "lat": 59.3293, "lon": 18.0686 }
+]
