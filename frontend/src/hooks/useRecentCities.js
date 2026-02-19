@@ -10,6 +10,5 @@ export function useRecentCities(key = 'recentCities') {
     setList(newList);
     localStorage.setItem(key, JSON.stringify(newList));
   }
-
   return { list, pushCity, setList };
 }
